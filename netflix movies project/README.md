@@ -8,4 +8,4 @@ Repository contains:
 
 1. Investigating Netflix Movies.py: Python code to complete the project.
 
-2. INVESTIGATING NETFLIX MOVIES PROJECT: PDF document that shows instructions and dataset I was working with.
+2. INVESTIGATING NETFLIX MOVIES PROJECT.pdf: PDF document that shows instructions and dataset I was working with.
