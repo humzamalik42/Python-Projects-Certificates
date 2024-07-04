@@ -1,7 +1,8 @@
-Python Proficiency in Data Analysis
+Python Proficiency
+
 Overview:
 
-My GitHub repository showcases extensive Python proficiency through projects like "Investigating Netflix Movies", "Exploring NYC Public School Test Result Scores" and "Modeling Car Insurance Claim Outcomes".
+My GitHub repository showcases extensive Python proficiency through projects like "Investigating Netflix Movies," "Exploring NYC Public School Test Result Scores," "Modeling Car Insurance Claim Outcomes," and "Gender Discrimination Experiment on Facebook Marketplace."
 
 These projects demonstrate my capability to leverage Python’s powerful libraries and tools to derive insights from real-world data sets.
 
@@ -47,6 +48,22 @@ Model Building: Built logistic regression models for each feature and calculated
 
 Performance Measurement: Identified "driving experience" as the most predictive feature with an accuracy of 0.7771.
 
+Gender Discrimination Experiment on Facebook Marketplace:
+
+Objective: Investigate potential gender discrimination in seller responses on Facebook Marketplace.
+
+Techniques Used:
+
+Profile Matching: Automated the selection and confirmation of 100+ buyer profiles using Python.
+
+Web Scraping: Utilized Selenium and BeautifulSoup to log in to Facebook and scrape Marketplace data for products within a 40 km radius and priced under 10 dollars.
+
+Data Management: Combined and filtered data to meet specified criteria, ensuring accuracy and relevance.
+
+Interactive Validation: Included user confirmation steps to validate profile selections and product listings.
+
+Recording Transactions: Meticulously recorded transaction details such as delivery times, product quality, and seller responsiveness in Google Sheets and Excel.
+
 Skills Demonstrated:
 
 Data Manipulation: Mastery in using Pandas for data cleaning, filtering, and transformation, essential for preparing data for analysis.
@@ -55,5 +72,8 @@ Statistical Analysis: Proficient in applying statistical functions to analyze da
 
 Machine Learning: Demonstrated ability to build and evaluate logistic regression models for predictive analysis.
 
+Web Scraping and Automation: Utilized Selenium and BeautifulSoup for automated data collection from web sources.
+
 Efficient Code Practices: Code snippets reveal an organized and efficient coding style, emphasizing readability and functionality.
 
+Interactive Validation: Ensured data integrity through interactive validation steps, maintaining high standards of accuracy.
