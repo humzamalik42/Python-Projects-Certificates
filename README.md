@@ -2,11 +2,31 @@ Python Proficiency
 
 Overview:
 
-My GitHub repository showcases extensive Python proficiency through projects like "Investigating Netflix Movies," "Exploring NYC Public School Test Result Scores," "Modeling Car Insurance Claim Outcomes," and "Gender Discrimination Experiment on Facebook Marketplace."
+My GitHub repository showcases extensive Python proficiency through projects like "BCG Financial Chatbot", "Investigating Netflix Movies," "Exploring NYC Public School Test Result Scores," "Modeling Car Insurance Claim Outcomes," and "Gender Discrimination Experiment on Facebook Marketplace."
 
 These projects demonstrate my capability to leverage Python’s powerful libraries and tools to derive insights from real-world data sets.
 
 Projects Description:
+
+BCG Financial Chatbot Prototype:
+
+Objective: Developed a financial chatbot that responds to predefined queries based on analyzed financial data from 10-K reports.
+
+Techniques Used:
+
+Data Analysis: Extracted financial data from SEC filings, using pandas to compute key financial metrics such as revenue growth and net income growth.
+
+Chatbot Logic: Built a rule-based chatbot using if-else statements to provide accurate financial insights based on user queries.
+
+Data Integration: Integrated financial data into the chatbot to generate dynamic responses, showcasing the ability to combine data analysis and interactive application development.
+
+Skills Demonstrated:
+
+Data Manipulation: Proficient use of pandas for data extraction, transformation, and analysis, enabling the creation of accurate financial metrics.
+
+AI Prototyping: Developed a simplified AI chatbot, highlighting Python's flexibility in building practical, user-interactive applications.
+
+Automation: Automated the retrieval of financial insights based on user input, streamlining the process of obtaining relevant data.
 
 Investigating Netflix Movies:
 
